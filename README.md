@@ -1,7 +1,7 @@
 ### 👋, I am Groot
 
 
-Hi there, I'm **Aakash Kumar**, a **Cybersecurity Enthusiast** ( HackTheBox Player ) and a **Computer Engineering student** 🚀 from National Institute of Technology, Warangal, currently, I'm a CybSec NITW Lead 🙍🏽‍♂️ [CybSec NITW](https://github.com/CybSec-NITW), Living in South Delhi 👨🏽‍💻, TIFLS, and Jack of All Trades 👨🏽‍💼. 
+Hi there, I'm **Aakash Kumar**, a **Cybersecurity Enthusiast** ( HackTheBox Player ) and a **Computer Engineering student** 🚀 from National Institute of Technology, Warangal. Currently, I'm CybSec NITW Lead 🙍🏽‍♂️ [CybSec NITW](https://github.com/CybSec-NITW), Living in South Delhi 👨🏽‍💻, TIFLS, and Jack of All Trades 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
